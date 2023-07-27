@@ -1,6 +1,5 @@
 namespace Data {
   interface Wheel {
-    durometers: string[];
     size: number;
     width: number;
     riding: number;
