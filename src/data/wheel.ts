@@ -39,7 +39,13 @@ export const SPITFIRES: Data.Spitfire = {
       { durometers: ["99"], size: 56, width: 34.5, riding: 21 },
       { durometers: ["99"], size: 58, width: 35.7, riding: 22.2 },
     ],
-
+    lock_in: [
+      { durometers: ["99"], size: 52, width: 33.3, riding: 20 },
+      { durometers: ["99"], size: 53, width: 33.9, riding: 21.6 },
+      { durometers: ["99"], size: 54, width: 34.8, riding: 21.8 },
+      { durometers: ["99"], size: 55, width: 35.9, riding: 23.5 },
+      { durometers: ["99"], size: 57, width: 37.4, riding: 24.7 },
+    ],
     radial_full: [],
 
     lock_in_full: [],
