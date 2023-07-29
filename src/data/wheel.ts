@@ -45,8 +45,30 @@ export const SPITFIRES: Data.Spitfire = {
       { size: 55, width: 35.9, riding: 23.5 },
       { size: 57, width: 37.4, riding: 24.7 },
     ],
-    radial_full: [],
+    conical_full: [
+      { size: 50, width: 32, riding: 20 },
+      { size: 51, width: 32, riding: 21 },
+      { size: 52, width: 32.5, riding: 21 },
+      { size: 53, width: 33.5, riding: 21.5 },
+      { size: 54, width: 34, riding: 22 },
+      { size: 55, width: 35, riding: 24 },
+      { size: 56, width: 36, riding: 25 },
+      { size: 58, width: 37, riding: 26.5 },
+      { size: 60, width: 38.5, riding: 28.5 },
+    ],
+    radial_full: [
+      { size: 54, width: 38, riding: 25 },
+      { size: 56, width: 39, riding: 26 },
+      { size: 57, width: 40, riding: 27 },
+      { size: 58, width: 41, riding: 28 },
+      { size: 59, width: 41.3, riding: 28.5 },
+      { size: 60, width: 41.5, riding: 29 },
+    ],
 
-    lock_in_full: [],
+    lock_in_full: [
+      { size: 54, width: 38, riding: 25 },
+      { size: 55, width: 39.2, riding: 26.8 },
+      { size: 57, width: 40.2, riding: 27.5 },
+    ],
   },
 };

@@ -10,6 +10,7 @@ namespace Data {
     radials: Wheel[];
     conical: Wheel[];
     lock_in: Wheel[];
+    conical_full: Wheel[];
     radial_full: Wheel[];
     lock_in_full: Wheel[];
   }
